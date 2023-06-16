@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './navbar.modules.css'
+import classes from './navbar.module.css'
 import {Link} from 'react-router-dom'
 import {BsHouseDoor} from 'react-icons/bs'
 
